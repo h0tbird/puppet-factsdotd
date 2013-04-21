@@ -1,0 +1,8 @@
+name            'h0tbird-factsdotd'
+version         '0.0.1'
+source          'https://github.com/h0tbird/puppet-factsdotd'
+author          'Marc Villacorta'
+license         'GPL'
+summary         'Facts-dot-d Module'
+description     'Manages facts-dot-d.'
+project_page    'https://github.com/h0tbird/puppet-factsdotd'
